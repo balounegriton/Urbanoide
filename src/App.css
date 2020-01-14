@@ -95,4 +95,5 @@ width: 100vw;
 .anim2{
     width: 70vw;
     margin: auto;
+    cursor: pointer;
 }

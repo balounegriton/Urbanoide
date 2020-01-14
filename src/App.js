@@ -51,7 +51,7 @@ class App extends Component {
 
   componentDidMount() {
     window.addEventListener('scroll', this.handleScroll);
-    setTimeout(function(){ document.body.style.overflow = "scroll" }, 3000);
+    setTimeout(function(){ document.body.style.overflow = "scroll" }, 2500);
   }
 
   componentWillUnmount() {
@@ -105,6 +105,11 @@ class App extends Component {
     })
   }
 
+  mail= () => {
+   
+    window.open('mailto:contact@urbanoid.com')
+  }
+
 
 
 
@@ -125,7 +130,7 @@ class App extends Component {
         <div className="allo2">
         <VisibilitySensor onChange={this.onChange2}>
             <div className="emptydiv2">
-              {this.state.visable2 && <div className="anim2" >     
+              {this.state.visable2 && <div className="anim2" onClick={this.mail}>     
                 
               <  Anim2  />  </div>}
             </div>
@@ -179,7 +184,7 @@ class App extends Component {
           <div className="allo2">
           <VisibilitySensor onChange={this.onChange2}>
               <div className="emptydiv2">
-                {this.state.visable2 && <div className="anim2" >     
+                {this.state.visable2 && <div className="anim2" onClick={this.mail} >     
                   
                 <  Anim2  />  </div>}
               </div>
