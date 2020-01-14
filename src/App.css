@@ -1,9 +1,21 @@
 body{
     background-color: #e7e7db;
-}
+    font-family: gotBold;
+    overflow: hidden;
 
+}
+@font-face {
+    font-family: gotBold;
+    src: url(Gotham-Bold.otf);
+  }
+
+  @font-face {
+    font-family: gotLight;
+    src: url(Gotham-Light.otf);
+  } 
 
 .mouseHover {
+    opacity: .9;
     z-index: -1000;
     top: 0;
     position: fixed;
@@ -18,6 +30,24 @@ body{
     transition: all 1s ease-in-out;
 
 }
+
+.mouseHover2 {
+    opacity: .4;
+    z-index: -1000;
+    top: 0;
+    position: fixed;
+    filter: none;
+    min-width: 100vw;
+    min-height: 100vh;
+    mix-blend-mode: normal;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+
+}
+
 
 .mouseNotHover {
     z-index: -1000;
@@ -43,9 +73,26 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-
+    font-size: 5vw;
 }
 
 .logo{
 width: 40vw;
+}
+
+.emptydiv{
+    height: 100px;
+    width: 10vw;
+    background: rebeccapurple;
+}
+
+.emptydiv2{
+height: 30vh;
+width: 100vw;
+
+}
+
+.anim2{
+    width: 70vw;
+    margin: auto;
 }

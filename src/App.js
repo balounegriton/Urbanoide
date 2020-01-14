@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
 import './App.css';
 import loop from "./video/loop.mp4";
-import favicon from "./video/urb_favicon_black.svg";
-import logo from "./video/urb_logo_black.svg";
+import img from "./video/img.jpg";
+import Anim1 from "./Animation/Amin1.js";
+import Anim2 from "./Animation/Amin2.js";
 import { withGetScreen } from 'react-getscreen'
+import VisibilitySensor from "react-visibility-sensor";
 
 
 class App extends Component {
@@ -12,6 +14,7 @@ class App extends Component {
     const me = this
     this.state = {
     };
+
     var scrollStop = function (callback) {
 
       // Make sure a valid callback was provided
@@ -48,7 +51,7 @@ class App extends Component {
 
   componentDidMount() {
     window.addEventListener('scroll', this.handleScroll);
-
+    setTimeout(function(){ document.body.style.overflow = "scroll" }, 3000);
   }
 
   componentWillUnmount() {
@@ -61,18 +64,46 @@ class App extends Component {
 
 
   playVideo = () => {
-    this.refs.vidRef.play();
-    document.getElementById("video1").className = "mouseHover";
+    
+    if (this.props.isMobile() || this.props.isTablet()) {
+      document.getElementById("img1").className = "mouseHover2";
+    }
+
+    else{
+      this.refs.vidRef.play();
+      document.getElementById("video1").className = "mouseHover";
+    }
+
 
 
   };
 
   pauseVideo = () => {
+
+    if (this.props.isMobile() || this.props.isTablet()) {
+      document.getElementById("img1").className = "mouseNotHover";
+    }
+
+    else{
     this.refs.vidRef.pause();
     document.getElementById("video1").className = "mouseNotHover";
-
+    }
 
   };
+
+  onChange = (isVisible) => {
+
+    this.setState({
+      visable: isVisible
+    })
+  }
+
+  onChange2 = (isVisible) => {
+   
+    this.setState({
+      visable2: isVisible
+    })
+  }
 
 
 
@@ -87,8 +118,47 @@ class App extends Component {
 
 
         <div>
-          tablette iphone
+        <div className="allo2">        
+              <  Anim1  />  
         </div>
+
+        <div className="allo2">
+        <VisibilitySensor onChange={this.onChange2}>
+            <div className="emptydiv2">
+              {this.state.visable2 && <div className="anim2" >     
+                
+              <  Anim2  />  </div>}
+            </div>
+
+          </VisibilitySensor>
+        </div>
+
+
+        <div className="colorBackground">
+          <img
+           id="img1"
+           className="mouseNotHover"
+           src={img}
+            alt=""
+            />
+  
+           
+         
+         
+      
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+      </div>
       )
 
 
@@ -102,23 +172,20 @@ class App extends Component {
 
       return (
         <div>
-
-
-
-
-
-          <div className="allo2">
-            <img src={favicon} alt="" className="logo" />
+          <div className="allo2">        
+                <  Anim1  />  
           </div>
 
           <div className="allo2">
-            Going Live 2022
-          </div>
+          <VisibilitySensor onChange={this.onChange2}>
+              <div className="emptydiv2">
+                {this.state.visable2 && <div className="anim2" >     
+                  
+                <  Anim2  />  </div>}
+              </div>
 
-          <div className="allo2">
-          <img src={logo} alt="" className="logo" />
+            </VisibilitySensor>
           </div>
-
 
 
           <div className="colorBackground">
