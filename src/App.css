@@ -1,0 +1,51 @@
+body{
+    background-color: #e7e7db;
+}
+
+
+.mouseHover {
+    z-index: -1000;
+    top: 0;
+    position: fixed;
+    filter: none;
+    min-width: 100vw;
+    min-height: 100vh;
+    mix-blend-mode: normal;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+
+}
+
+.mouseNotHover {
+    z-index: -1000;
+    top: 0;
+    position: fixed;
+    opacity: .1;
+    min-width: 100vw;
+    min-height: 100vh;
+    filter: grayscale(100%) contrast(100%);
+    ;
+    mix-blend-mode: luminosity;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+
+
+}
+
+.allo2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.logo{
+width: 40vw;
+}
