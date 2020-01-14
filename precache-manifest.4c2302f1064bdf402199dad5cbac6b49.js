@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de3f46b74a9dade1cef80f5df98b32a0",
+    "revision": "003a8239bd530c61ca2f768e186db540",
     "url": "/Urbanoide/index.html"
   },
   {
-    "revision": "30e9d08d0dc32b3ad56b",
+    "revision": "a92f676082653987b75a",
     "url": "/Urbanoide/static/css/main.369197d0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Urbanoide/static/js/2.dd2acc5d.chunk.js.LICENSE"
   },
   {
-    "revision": "30e9d08d0dc32b3ad56b",
-    "url": "/Urbanoide/static/js/main.6cd8777d.chunk.js"
+    "revision": "a92f676082653987b75a",
+    "url": "/Urbanoide/static/js/main.3135c57c.chunk.js"
   },
   {
     "revision": "84d56ee40275a5018d8b",
