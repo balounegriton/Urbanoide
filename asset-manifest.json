@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Urbanoide/static/css/main.92239098.chunk.css",
+    "main.js": "/Urbanoide/static/js/main.5e8b3f99.chunk.js",
+    "main.js.map": "/Urbanoide/static/js/main.5e8b3f99.chunk.js.map",
+    "runtime-main.js": "/Urbanoide/static/js/runtime-main.ef41f7bc.js",
+    "runtime-main.js.map": "/Urbanoide/static/js/runtime-main.ef41f7bc.js.map",
+    "static/js/2.9126592b.chunk.js": "/Urbanoide/static/js/2.9126592b.chunk.js",
+    "static/js/2.9126592b.chunk.js.map": "/Urbanoide/static/js/2.9126592b.chunk.js.map",
+    "index.html": "/Urbanoide/index.html",
+    "precache-manifest.b53b7368407b6e219f04186ffe179b71.js": "/Urbanoide/precache-manifest.b53b7368407b6e219f04186ffe179b71.js",
+    "service-worker.js": "/Urbanoide/service-worker.js",
+    "static/css/main.92239098.chunk.css.map": "/Urbanoide/static/css/main.92239098.chunk.css.map",
+    "static/js/2.9126592b.chunk.js.LICENSE": "/Urbanoide/static/js/2.9126592b.chunk.js.LICENSE",
+    "static/media/loop.mp4": "/Urbanoide/static/media/loop.f2e01edd.mp4",
+    "static/media/urb_favicon_black.svg": "/Urbanoide/static/media/urb_favicon_black.fd9f7b6a.svg",
+    "static/media/urb_logo_black.svg": "/Urbanoide/static/media/urb_logo_black.1d679ac4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef41f7bc.js",
+    "static/js/2.9126592b.chunk.js",
+    "static/css/main.92239098.chunk.css",
+    "static/js/main.5e8b3f99.chunk.js"
+  ]
+}
