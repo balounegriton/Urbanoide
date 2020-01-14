@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Urbanoide/static/css/main.2437f04a.chunk.css",
-    "main.js": "/Urbanoide/static/js/main.3337a175.chunk.js",
-    "main.js.map": "/Urbanoide/static/js/main.3337a175.chunk.js.map",
+    "main.css": "/Urbanoide/static/css/main.369197d0.chunk.css",
+    "main.js": "/Urbanoide/static/js/main.6cd8777d.chunk.js",
+    "main.js.map": "/Urbanoide/static/js/main.6cd8777d.chunk.js.map",
     "runtime-main.js": "/Urbanoide/static/js/runtime-main.ef41f7bc.js",
     "runtime-main.js.map": "/Urbanoide/static/js/runtime-main.ef41f7bc.js.map",
     "static/js/2.dd2acc5d.chunk.js": "/Urbanoide/static/js/2.dd2acc5d.chunk.js",
     "static/js/2.dd2acc5d.chunk.js.map": "/Urbanoide/static/js/2.dd2acc5d.chunk.js.map",
     "index.html": "/Urbanoide/index.html",
-    "precache-manifest.a5ec556f616adbd48f8997cb5f43b88c.js": "/Urbanoide/precache-manifest.a5ec556f616adbd48f8997cb5f43b88c.js",
+    "precache-manifest.0d63bfc0b6caba01033b33948260f2c1.js": "/Urbanoide/precache-manifest.0d63bfc0b6caba01033b33948260f2c1.js",
     "service-worker.js": "/Urbanoide/service-worker.js",
-    "static/css/main.2437f04a.chunk.css.map": "/Urbanoide/static/css/main.2437f04a.chunk.css.map",
+    "static/css/main.369197d0.chunk.css.map": "/Urbanoide/static/css/main.369197d0.chunk.css.map",
     "static/js/2.dd2acc5d.chunk.js.LICENSE": "/Urbanoide/static/js/2.dd2acc5d.chunk.js.LICENSE",
     "static/media/App.css": "/Urbanoide/static/media/Gotham-Light.23db9713.otf",
     "static/media/img.jpg": "/Urbanoide/static/media/img.21a4e80f.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.ef41f7bc.js",
     "static/js/2.dd2acc5d.chunk.js",
-    "static/css/main.2437f04a.chunk.css",
-    "static/js/main.3337a175.chunk.js"
+    "static/css/main.369197d0.chunk.css",
+    "static/js/main.6cd8777d.chunk.js"
   ]
 }
