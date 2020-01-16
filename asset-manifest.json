@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Urbanoide/static/css/main.9ab91ae5.chunk.css",
-    "main.js": "/Urbanoide/static/js/main.debcf4cd.chunk.js",
-    "main.js.map": "/Urbanoide/static/js/main.debcf4cd.chunk.js.map",
+    "main.css": "/Urbanoide/static/css/main.01e63ac5.chunk.css",
+    "main.js": "/Urbanoide/static/js/main.221bee79.chunk.js",
+    "main.js.map": "/Urbanoide/static/js/main.221bee79.chunk.js.map",
     "runtime-main.js": "/Urbanoide/static/js/runtime-main.ef41f7bc.js",
     "runtime-main.js.map": "/Urbanoide/static/js/runtime-main.ef41f7bc.js.map",
     "static/js/2.3576c4a0.chunk.js": "/Urbanoide/static/js/2.3576c4a0.chunk.js",
     "static/js/2.3576c4a0.chunk.js.map": "/Urbanoide/static/js/2.3576c4a0.chunk.js.map",
     "index.html": "/Urbanoide/index.html",
-    "precache-manifest.fc7b18f3a53e8f621dd56aa9f286164b.js": "/Urbanoide/precache-manifest.fc7b18f3a53e8f621dd56aa9f286164b.js",
+    "precache-manifest.0e371600c52a33c4b0d8d73b1714303d.js": "/Urbanoide/precache-manifest.0e371600c52a33c4b0d8d73b1714303d.js",
     "service-worker.js": "/Urbanoide/service-worker.js",
-    "static/css/main.9ab91ae5.chunk.css.map": "/Urbanoide/static/css/main.9ab91ae5.chunk.css.map",
+    "static/css/main.01e63ac5.chunk.css.map": "/Urbanoide/static/css/main.01e63ac5.chunk.css.map",
     "static/js/2.3576c4a0.chunk.js.LICENSE": "/Urbanoide/static/js/2.3576c4a0.chunk.js.LICENSE",
     "static/media/App.css": "/Urbanoide/static/media/Gotham-Light.23db9713.otf",
-    "static/media/loop.gif": "/Urbanoide/static/media/loop.2c591b2b.gif",
-    "static/media/loop.mp4": "/Urbanoide/static/media/loop.bd37ab2c.mp4"
+    "static/media/loop.mp4": "/Urbanoide/static/media/loop.bd37ab2c.mp4",
+    "static/media/loop.gif": "/Urbanoide/static/media/loop.fadf96b0.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.ef41f7bc.js",
     "static/js/2.3576c4a0.chunk.js",
-    "static/css/main.9ab91ae5.chunk.css",
-    "static/js/main.debcf4cd.chunk.js"
+    "static/css/main.01e63ac5.chunk.css",
+    "static/js/main.221bee79.chunk.js"
   ]
 }
