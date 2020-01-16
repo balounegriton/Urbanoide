@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Urbanoide/static/css/main.ff00087c.chunk.css",
-    "main.js": "/Urbanoide/static/js/main.e75b38df.chunk.js",
-    "main.js.map": "/Urbanoide/static/js/main.e75b38df.chunk.js.map",
+    "main.css": "/Urbanoide/static/css/main.9ab91ae5.chunk.css",
+    "main.js": "/Urbanoide/static/js/main.dabb43b6.chunk.js",
+    "main.js.map": "/Urbanoide/static/js/main.dabb43b6.chunk.js.map",
     "runtime-main.js": "/Urbanoide/static/js/runtime-main.ef41f7bc.js",
     "runtime-main.js.map": "/Urbanoide/static/js/runtime-main.ef41f7bc.js.map",
-    "static/js/2.2d5ae065.chunk.js": "/Urbanoide/static/js/2.2d5ae065.chunk.js",
-    "static/js/2.2d5ae065.chunk.js.map": "/Urbanoide/static/js/2.2d5ae065.chunk.js.map",
+    "static/js/2.b2201c28.chunk.js": "/Urbanoide/static/js/2.b2201c28.chunk.js",
+    "static/js/2.b2201c28.chunk.js.map": "/Urbanoide/static/js/2.b2201c28.chunk.js.map",
     "index.html": "/Urbanoide/index.html",
-    "precache-manifest.fb88c3a8449381779b37f5e438a9453d.js": "/Urbanoide/precache-manifest.fb88c3a8449381779b37f5e438a9453d.js",
+    "precache-manifest.0c3e61e1076df48ca366b9d43a04bdf5.js": "/Urbanoide/precache-manifest.0c3e61e1076df48ca366b9d43a04bdf5.js",
     "service-worker.js": "/Urbanoide/service-worker.js",
-    "static/css/main.ff00087c.chunk.css.map": "/Urbanoide/static/css/main.ff00087c.chunk.css.map",
-    "static/js/2.2d5ae065.chunk.js.LICENSE": "/Urbanoide/static/js/2.2d5ae065.chunk.js.LICENSE",
+    "static/css/main.9ab91ae5.chunk.css.map": "/Urbanoide/static/css/main.9ab91ae5.chunk.css.map",
+    "static/js/2.b2201c28.chunk.js.LICENSE": "/Urbanoide/static/js/2.b2201c28.chunk.js.LICENSE",
     "static/media/App.css": "/Urbanoide/static/media/Gotham-Light.23db9713.otf",
     "static/media/img.jpg": "/Urbanoide/static/media/img.21a4e80f.jpg",
     "static/media/loop.mp4": "/Urbanoide/static/media/loop.bd37ab2c.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.ef41f7bc.js",
-    "static/js/2.2d5ae065.chunk.js",
-    "static/css/main.ff00087c.chunk.css",
-    "static/js/main.e75b38df.chunk.js"
+    "static/js/2.b2201c28.chunk.js",
+    "static/css/main.9ab91ae5.chunk.css",
+    "static/js/main.dabb43b6.chunk.js"
   ]
 }
