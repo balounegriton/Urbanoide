@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Urbanoide/precache-manifest.fd3b27c784f8e6fd11070a18eec61731.js"
+  "/Urbanoide/precache-manifest.d07f82b3205d2c4eebdb7e118b4fac10.js"
 );
 
 self.addEventListener('message', (event) => {
