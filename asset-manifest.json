@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Urbanoide/static/css/main.3f616ccd.chunk.css",
-    "main.js": "/Urbanoide/static/js/main.95ff3171.chunk.js",
-    "main.js.map": "/Urbanoide/static/js/main.95ff3171.chunk.js.map",
+    "main.js": "/Urbanoide/static/js/main.61a4df18.chunk.js",
+    "main.js.map": "/Urbanoide/static/js/main.61a4df18.chunk.js.map",
     "runtime-main.js": "/Urbanoide/static/js/runtime-main.ef41f7bc.js",
     "runtime-main.js.map": "/Urbanoide/static/js/runtime-main.ef41f7bc.js.map",
-    "static/js/2.4b42cfa7.chunk.js": "/Urbanoide/static/js/2.4b42cfa7.chunk.js",
-    "static/js/2.4b42cfa7.chunk.js.map": "/Urbanoide/static/js/2.4b42cfa7.chunk.js.map",
+    "static/js/2.d5373330.chunk.js": "/Urbanoide/static/js/2.d5373330.chunk.js",
+    "static/js/2.d5373330.chunk.js.map": "/Urbanoide/static/js/2.d5373330.chunk.js.map",
     "index.html": "/Urbanoide/index.html",
-    "precache-manifest.7058b2122e55fe4f4d0c87ebe52da208.js": "/Urbanoide/precache-manifest.7058b2122e55fe4f4d0c87ebe52da208.js",
+    "precache-manifest.fd3b27c784f8e6fd11070a18eec61731.js": "/Urbanoide/precache-manifest.fd3b27c784f8e6fd11070a18eec61731.js",
     "service-worker.js": "/Urbanoide/service-worker.js",
     "static/css/main.3f616ccd.chunk.css.map": "/Urbanoide/static/css/main.3f616ccd.chunk.css.map",
-    "static/js/2.4b42cfa7.chunk.js.LICENSE": "/Urbanoide/static/js/2.4b42cfa7.chunk.js.LICENSE",
-    "static/media/connecting.570a87e4.svg": "/Urbanoide/static/media/connecting.570a87e4.svg",
-    "static/media/email.435add61.svg": "/Urbanoide/static/media/email.435add61.svg",
-    "static/media/loop.mp4": "/Urbanoide/static/media/loop.bd37ab2c.mp4"
+    "static/js/2.d5373330.chunk.js.LICENSE": "/Urbanoide/static/js/2.d5373330.chunk.js.LICENSE",
+    "static/media/connecting.ba966e4d.svg": "/Urbanoide/static/media/connecting.ba966e4d.svg",
+    "static/media/loop.mp4": "/Urbanoide/static/media/loop.bd37ab2c.mp4",
+    "static/media/loop.gif": "/Urbanoide/static/media/loop.fadf96b0.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.ef41f7bc.js",
-    "static/js/2.4b42cfa7.chunk.js",
+    "static/js/2.d5373330.chunk.js",
     "static/css/main.3f616ccd.chunk.css",
-    "static/js/main.95ff3171.chunk.js"
+    "static/js/main.61a4df18.chunk.js"
   ]
 }
