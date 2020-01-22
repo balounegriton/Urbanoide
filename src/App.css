@@ -1,21 +1,17 @@
-body{
-    background-color: #e7e7db;
+body {
+
+
     font-family: gotBold;
     overflow: hidden;
+    cursor: url(cursor2.png), auto;
 
 }
-@font-face {
-    font-family: gotBold;
-    src: url(Gotham-Bold.otf);
-  }
 
-  @font-face {
-    font-family: gotLight;
-    src: url(Gotham-Light.otf);
-  } 
+
 
 .mouseHover {
-    opacity: .9;
+    right: 0;
+    opacity: 1;
     z-index: -1000;
     top: 0;
     position: fixed;
@@ -23,47 +19,54 @@ body{
     min-width: 100vw;
     min-height: 100vh;
     mix-blend-mode: normal;
-    -webkit-transition: all 1s ease-in-out;
-    -moz-transition: all 1s ease-in-out;
-    -ms-transition: all 1s ease-in-out;
-    -o-transition: all 1s ease-in-out;
-    transition: all 1s ease-in-out;
+
 
 }
 
 .mouseHover2 {
-    opacity: .4;
+    right: 0;
+    bottom: -100px;
+    opacity: .9;
     z-index: -1000;
-    top: 0;
+
     position: fixed;
     filter: none;
     min-width: 100vw;
     min-height: 100vh;
     mix-blend-mode: normal;
-    -webkit-transition: all 1s ease-in-out;
-    -moz-transition: all 1s ease-in-out;
-    -ms-transition: all 1s ease-in-out;
-    -o-transition: all 1s ease-in-out;
-    transition: all 1s ease-in-out;
+
 
 }
 
 
-.mouseNotHover {
+
+
+.mouseNotHoverTop {
+    right: 0;
     z-index: -1000;
     top: 0;
     position: fixed;
-    opacity: .1;
+    opacity: .0;
     min-width: 100vw;
     min-height: 100vh;
-    filter: grayscale(100%) contrast(100%);
-    ;
-    mix-blend-mode: luminosity;
-    -webkit-transition: all 1s ease-in-out;
-    -moz-transition: all 1s ease-in-out;
-    -ms-transition: all 1s ease-in-out;
-    -o-transition: all 1s ease-in-out;
-    transition: all 1s ease-in-out;
+
+
+
+
+}
+
+.mouseNotHoverTop2 {
+    right: 0;
+    bottom: -100px;
+    opacity: 0;
+    z-index: -1000;
+
+    position: fixed;
+    filter: none;
+    min-width: 100vw;
+    min-height: 100vh;
+    mix-blend-mode: normal;
+
 
 
 }
@@ -74,26 +77,99 @@ body{
     align-items: center;
     height: 100vh;
     font-size: 5vw;
+
 }
 
-.logo{
-width: 40vw;
+.logo {
+    width: 40vw;
 }
 
-.emptydiv{
+.emptydiv {
     height: 100px;
     width: 10vw;
     background: rebeccapurple;
 }
 
-.emptydiv2{
-height: 30vh;
-width: 100vw;
+.emptydiv2 {
+    height: 1vh;
+    width: 100vw;
 
 }
 
-.anim2{
-    width: 70vw;
-    margin: auto;
-    cursor: pointer;
+.anim2 {
+ width: 60vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70vh;
+
+
+}
+
+.logoView {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    height: 100vh;
+    opacity: 1;
+
+
+}
+
+.logoHide {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    height: 100vh;
+    opacity: 0;
+
+
+}
+
+.anim1 {
+    width: 37vw;
+}
+
+.fixeDiv {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+
+}
+
+.scrollDown {
+    opacity: 1;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+}
+
+.scrollDownHide {
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    opacity: 0;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+}
+
+.loadload {
+    margin-bottom: 20px;
+    width: 6vw;
 }
