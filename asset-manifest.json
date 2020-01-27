@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Urbanoide/static/css/main.a74ac188.chunk.css",
-    "main.js": "/Urbanoide/static/js/main.521c60fc.chunk.js",
-    "main.js.map": "/Urbanoide/static/js/main.521c60fc.chunk.js.map",
+    "main.js": "/Urbanoide/static/js/main.0187b641.chunk.js",
+    "main.js.map": "/Urbanoide/static/js/main.0187b641.chunk.js.map",
     "runtime-main.js": "/Urbanoide/static/js/runtime-main.ef41f7bc.js",
     "runtime-main.js.map": "/Urbanoide/static/js/runtime-main.ef41f7bc.js.map",
-    "static/js/2.a96a799a.chunk.js": "/Urbanoide/static/js/2.a96a799a.chunk.js",
-    "static/js/2.a96a799a.chunk.js.map": "/Urbanoide/static/js/2.a96a799a.chunk.js.map",
+    "static/js/2.6f4f3c82.chunk.js": "/Urbanoide/static/js/2.6f4f3c82.chunk.js",
+    "static/js/2.6f4f3c82.chunk.js.map": "/Urbanoide/static/js/2.6f4f3c82.chunk.js.map",
     "index.html": "/Urbanoide/index.html",
-    "precache-manifest.9c5ed87cc62a6a703ee213bed7a654fa.js": "/Urbanoide/precache-manifest.9c5ed87cc62a6a703ee213bed7a654fa.js",
+    "precache-manifest.9062ce42217ed3db52aa047b83726c40.js": "/Urbanoide/precache-manifest.9062ce42217ed3db52aa047b83726c40.js",
     "service-worker.js": "/Urbanoide/service-worker.js",
     "static/css/main.a74ac188.chunk.css.map": "/Urbanoide/static/css/main.a74ac188.chunk.css.map",
-    "static/js/2.a96a799a.chunk.js.LICENSE": "/Urbanoide/static/js/2.a96a799a.chunk.js.LICENSE",
+    "static/js/2.6f4f3c82.chunk.js.LICENSE": "/Urbanoide/static/js/2.6f4f3c82.chunk.js.LICENSE",
     "static/media/connecting.33b0b7c7.svg": "/Urbanoide/static/media/connecting.33b0b7c7.svg",
     "static/media/f-10.jpg": "/Urbanoide/static/media/f-10.8e877a4f.jpg",
     "static/media/f-11.jpg": "/Urbanoide/static/media/f-11.64e4b8a5.jpg",
@@ -23,7 +23,6 @@
     "static/media/f-17.jpg": "/Urbanoide/static/media/f-17.463bfddd.jpg",
     "static/media/f-18.jpg": "/Urbanoide/static/media/f-18.8a052ad7.jpg",
     "static/media/f-19.jpg": "/Urbanoide/static/media/f-19.69a77060.jpg",
-    "static/media/f-2.jpg": "/Urbanoide/static/media/f-2.54c0f227.jpg",
     "static/media/f-20.jpg": "/Urbanoide/static/media/f-20.3f7b92d2.jpg",
     "static/media/f-21.jpg": "/Urbanoide/static/media/f-21.7a1e8062.jpg",
     "static/media/f-22.jpg": "/Urbanoide/static/media/f-22.a562f243.jpg",
@@ -58,8 +57,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ef41f7bc.js",
-    "static/js/2.a96a799a.chunk.js",
+    "static/js/2.6f4f3c82.chunk.js",
     "static/css/main.a74ac188.chunk.css",
-    "static/js/main.521c60fc.chunk.js"
+    "static/js/main.0187b641.chunk.js"
   ]
 }
