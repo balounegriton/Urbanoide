@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d133a201d17b74f9aa4b501ce390d460",
+    "revision": "d805ea18bbafa1615c44f85a488c959e",
     "url": "/Urbanoide/index.html"
   },
   {
-    "revision": "40581567370a8faabd2c",
+    "revision": "9668ed4f20357a799d89",
     "url": "/Urbanoide/static/css/main.a74ac188.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Urbanoide/static/js/2.a96a799a.chunk.js.LICENSE"
   },
   {
-    "revision": "40581567370a8faabd2c",
-    "url": "/Urbanoide/static/js/main.fa1c7d19.chunk.js"
+    "revision": "9668ed4f20357a799d89",
+    "url": "/Urbanoide/static/js/main.bdce4905.chunk.js"
   },
   {
     "revision": "84d56ee40275a5018d8b",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Urbanoide/static/media/f-19.69a77060.jpg"
   },
   {
-    "revision": "7fd0c677e5b7d7a2e85a53cbf1105828",
-    "url": "/Urbanoide/static/media/f-2.7fd0c677.jpg"
+    "revision": "3e623959718e54a78902d0c2150e9664",
+    "url": "/Urbanoide/static/media/f-2.3e623959.jpg"
   },
   {
     "revision": "3f7b92d2271ffca13539c4b0546cecc3",

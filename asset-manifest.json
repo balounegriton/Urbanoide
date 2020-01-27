@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Urbanoide/static/css/main.a74ac188.chunk.css",
-    "main.js": "/Urbanoide/static/js/main.fa1c7d19.chunk.js",
-    "main.js.map": "/Urbanoide/static/js/main.fa1c7d19.chunk.js.map",
+    "main.js": "/Urbanoide/static/js/main.bdce4905.chunk.js",
+    "main.js.map": "/Urbanoide/static/js/main.bdce4905.chunk.js.map",
     "runtime-main.js": "/Urbanoide/static/js/runtime-main.ef41f7bc.js",
     "runtime-main.js.map": "/Urbanoide/static/js/runtime-main.ef41f7bc.js.map",
     "static/js/2.a96a799a.chunk.js": "/Urbanoide/static/js/2.a96a799a.chunk.js",
     "static/js/2.a96a799a.chunk.js.map": "/Urbanoide/static/js/2.a96a799a.chunk.js.map",
     "index.html": "/Urbanoide/index.html",
-    "precache-manifest.6b09ace72ab1f8fdaaefbce619ceb8fe.js": "/Urbanoide/precache-manifest.6b09ace72ab1f8fdaaefbce619ceb8fe.js",
+    "precache-manifest.bd1ddb5f072b4218a5975c54a4cd1252.js": "/Urbanoide/precache-manifest.bd1ddb5f072b4218a5975c54a4cd1252.js",
     "service-worker.js": "/Urbanoide/service-worker.js",
     "static/css/main.a74ac188.chunk.css.map": "/Urbanoide/static/css/main.a74ac188.chunk.css.map",
     "static/js/2.a96a799a.chunk.js.LICENSE": "/Urbanoide/static/js/2.a96a799a.chunk.js.LICENSE",
@@ -23,7 +23,7 @@
     "static/media/f-17.jpg": "/Urbanoide/static/media/f-17.463bfddd.jpg",
     "static/media/f-18.jpg": "/Urbanoide/static/media/f-18.8a052ad7.jpg",
     "static/media/f-19.jpg": "/Urbanoide/static/media/f-19.69a77060.jpg",
-    "static/media/f-2.jpg": "/Urbanoide/static/media/f-2.7fd0c677.jpg",
+    "static/media/f-2.jpg": "/Urbanoide/static/media/f-2.3e623959.jpg",
     "static/media/f-20.jpg": "/Urbanoide/static/media/f-20.3f7b92d2.jpg",
     "static/media/f-21.jpg": "/Urbanoide/static/media/f-21.7a1e8062.jpg",
     "static/media/f-22.jpg": "/Urbanoide/static/media/f-22.a562f243.jpg",
@@ -60,6 +60,6 @@
     "static/js/runtime-main.ef41f7bc.js",
     "static/js/2.a96a799a.chunk.js",
     "static/css/main.a74ac188.chunk.css",
-    "static/js/main.fa1c7d19.chunk.js"
+    "static/js/main.bdce4905.chunk.js"
   ]
 }
