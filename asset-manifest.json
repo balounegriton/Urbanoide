@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Urbanoide/static/css/main.a74ac188.chunk.css",
-    "main.js": "/Urbanoide/static/js/main.bdce4905.chunk.js",
-    "main.js.map": "/Urbanoide/static/js/main.bdce4905.chunk.js.map",
+    "main.js": "/Urbanoide/static/js/main.edebff41.chunk.js",
+    "main.js.map": "/Urbanoide/static/js/main.edebff41.chunk.js.map",
     "runtime-main.js": "/Urbanoide/static/js/runtime-main.ef41f7bc.js",
     "runtime-main.js.map": "/Urbanoide/static/js/runtime-main.ef41f7bc.js.map",
     "static/js/2.a96a799a.chunk.js": "/Urbanoide/static/js/2.a96a799a.chunk.js",
     "static/js/2.a96a799a.chunk.js.map": "/Urbanoide/static/js/2.a96a799a.chunk.js.map",
     "index.html": "/Urbanoide/index.html",
-    "precache-manifest.bd1ddb5f072b4218a5975c54a4cd1252.js": "/Urbanoide/precache-manifest.bd1ddb5f072b4218a5975c54a4cd1252.js",
+    "precache-manifest.2e90e1bbd6b97ebbccad677d3f6a4c08.js": "/Urbanoide/precache-manifest.2e90e1bbd6b97ebbccad677d3f6a4c08.js",
     "service-worker.js": "/Urbanoide/service-worker.js",
     "static/css/main.a74ac188.chunk.css.map": "/Urbanoide/static/css/main.a74ac188.chunk.css.map",
     "static/js/2.a96a799a.chunk.js.LICENSE": "/Urbanoide/static/js/2.a96a799a.chunk.js.LICENSE",
@@ -60,6 +60,6 @@
     "static/js/runtime-main.ef41f7bc.js",
     "static/js/2.a96a799a.chunk.js",
     "static/css/main.a74ac188.chunk.css",
-    "static/js/main.bdce4905.chunk.js"
+    "static/js/main.edebff41.chunk.js"
   ]
 }
